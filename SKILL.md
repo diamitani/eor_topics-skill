@@ -1,3 +1,9 @@
+---
+name: eor-topics
+description: >
+  Use this as a reference when building SharePoint search queries. | Rep's Question Type | Good SharePoint Search Terms | Use this skill when working with eor topics tasks or workflows.
+---
+
 # Common EOR Topics & Search Keywords
 
 Use this as a reference when building SharePoint search queries.
@@ -18,13 +24,13 @@ Use this as a reference when building SharePoint search queries.
 
 ## Key EOR Concepts Reps Encounter
 
-- **EOR (Employer of Record)**: {{COMPANY_NAME}} is the legal employer. {{COMPANY_NAME}} handles payroll, compliance, HR admin. Client is the day-to-day manager.
-- **Direct EOR Model**: {{COMPANY_NAME}} owns entities in 160+ countries — no third-party aggregators. Faster, more compliant.
+- **EOR (Employer of Record)**: Enterprise Platform is the legal employer. Enterprise Platform handles payroll, compliance, HR admin. Client is the day-to-day manager.
+- **Direct EOR Model**: Enterprise Platform owns entities in 160+ countries — no third-party aggregators. Faster, more compliant.
 - **Onboarding SLA**: Typical 2–5 business days in most countries (varies).
 - **13th / 14th month salary**: Required in many LATAM and European countries — common prospect question.
 - **Probation periods**: Legally defined in most countries, can affect termination risk.
 - **Notice periods**: Vary widely — Germany (up to 7 months), UK (1 week/year), US (at-will).
-- **Severance**: Often legally mandated (e.g., France, Brazil, Mexico). {{COMPANY_NAME}} ensures compliant calculation.
+- **Severance**: Often legally mandated (e.g., France, Brazil, Mexico). Enterprise Platform ensures compliant calculation.
 - **Employer tax burden**: Often 20–35% on top of salary in EU; lower in APAC and parts of LATAM.
 
 ## Frequently Asked Countries
